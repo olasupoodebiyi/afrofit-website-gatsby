@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Afrofit Website`,
+    description: `Find out all you want about the Afrofit App project.`,
+    keywords: `Fitness, Dance, Dance Fitness, Zumba, African Dance, Music Mix, Calorie Loss, Heart Rate, App, Google Playstore, Android, ios, iPhone, Free, Download App, Social, Sweat, Lost Weight, Stay Fit, Healthy, Allergens, Fitness App, Health Tracker, Weight Loss Tracker, Lose Weight`,
+    author: `@olasupoodebiyi`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
